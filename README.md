@@ -1,7 +1,7 @@
 # myresume
 A repository containing the LaTex source files to my resume.
 
-It builds upon the LaTex template created by written by LianTze Lim (liantze@gmail.com).
+It builds upon the LaTeX template created by LianTze Lim (liantze@gmail.com).
 
 As described in the main TeX file:
 
